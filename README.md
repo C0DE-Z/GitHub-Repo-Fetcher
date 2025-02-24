@@ -2,6 +2,8 @@
 
 A simple Node.js module to fetch GitHub repositories, READMEs, and user statistics for a given profile.
 
+Please leave a star if you use this <3
+
 ## Features
 - Fetch user's repositories and their READMEs
 - Get comprehensive user statistics
